@@ -108,5 +108,23 @@
     "cuisine": ["Brunch"],
     "wouldReturn": true,
     "notes": "Chicken and waffles!"
+  },
+  {
+    "name": "TEDS Rotterdam Op 't Dak",
+    "address": "Schiekade 189, 3013 BR Rotterdam, Netherlands",
+    "lat": 51.9254534,
+    "lng": 4.4766421,
+    "score": 6,
+    "cuisine": ["Brunch"],
+    "notes": "Nice rooftop restaurant, decadent! Like chicken on donuts. Runny egg white 😞"
+  },
+  {
+    "name": "TEDS Rotterdam Lijnbaan",
+    "address": "Lijnbaan 37, 3012 EK Rotterdam, Netherlands",
+    "lat": 51.9229576,
+    "lng": 4.4755419,
+    "score": 5,
+    "cuisine": ["Brunch"],
+    "notes": "Decadent! Like chicken on donuts. Runny egg white 😞"
   }
 ]
