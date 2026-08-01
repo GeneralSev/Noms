@@ -356,5 +356,15 @@
     "cuisine": ["Chicken", "Burgers", "Imco"],
     "wouldReturn": true,
     "notes": "Chicken burger place, not very impressed on first visit but want to go again"
+  },
+  {
+    "name": "Le Smash",
+    "address": "Witte de Withstraat 43A, 3012 BM Rotterdam, Netherlands",
+    "lat": 51.9158053,
+    "lng": 4.4774941,
+    "score": 3,
+    "cuisine": ["Burgers"],
+    "wouldReturn": false,
+    "notes": "Mediocre smash burger for too much money"
   }
 ]
