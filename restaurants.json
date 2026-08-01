@@ -306,5 +306,15 @@
     "cuisine": ["Japanese", "Ramen", "Katsu"],
     "wouldReturn": true,
     "notes": "Tasty Japanese ramen and katsu curry"
+  },
+  {
+    "name": "Sojubar Markthal",
+    "address": "Grotemarkt 88, 3011 PA Rotterdam, Netherlands",
+    "lat": 51.9204388,
+    "lng": 4.4872729,
+    "score": 5,
+    "cuisine": ["Korean", "Kimbap", "Korean fried chicken"],
+    "wouldReturn": true,
+    "notes": "Pretty good fried chicken"
   }
 ]
