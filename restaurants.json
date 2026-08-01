@@ -217,5 +217,14 @@
     "cuisine": ["Sushi", "All you can eat", "Classy"],
     "wouldReturn": true,
     "notes": "Nice cocktails, first date!"
+  },
+  {
+    "name": "Jack's Famous",
+    "address": "Prins Alexanderplein 52, 3067 GC Rotterdam, Netherlands",
+    "lat": 51.9514359,
+    "lng": 4.5521708,
+    "score": 2,
+    "wouldReturn": false,
+    "notes": "Terrible music, don't even remember the food"
   }
 ]
