@@ -386,5 +386,15 @@
     "cuisine": ["Classy", "Brasserie", "Grill", "Boat"],
     "wouldReturn": true,
     "notes": "Lovely dinner spot on the SS Rotterdam. Good food and interesting surroundings"
+  },
+  {
+    "name": "Ramen Mofu",
+    "address": "Halvemaanpassage 121, 3011 DL Rotterdam, Netherlands",
+    "lat": 51.9226673,
+    "lng": 4.4814547,
+    "score": 6,
+    "cuisine": ["Ramen", "Japanese"],
+    "wouldReturn": true,
+    "notes": "Tasty ramen in our building!"
   }
 ]
