@@ -88,5 +88,15 @@
     "cuisine": ["Greek", "Gyros"],
     "wouldReturn": true,
     "notes": "Delicious grilled chicken in the gyros"
+  },
+  {
+    "name": "Kaaskop",
+    "address": "Botersloot 48A, 3011 HH Rotterdam, Netherlands",
+    "lat": 51.9220745,
+    "lng": 4.4881023,
+    "score": 4,
+    "cuisine": ["Pasta"],
+    "wouldReturn": true,
+    "notes": "They make tasty pasta in a cheese wheel"
   }
 ]
