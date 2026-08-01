@@ -148,5 +148,15 @@
     "cuisine": ["Fast food", "Burgers"],
     "wouldReturn": true,
     "notes": "Local McDonald's in a glass cage. Delicious"
+  },
+  {
+    "name": "Hkiki Burger",
+    "address": "Van Oldenbarneveltplaats 1, 3012 AH Rotterdam, Netherlands",
+    "lat": 51.9201145,
+    "lng": 4.4794421,
+    "score": 5,
+    "cuisine": ["Fast food", "Burgers"],
+    "wouldReturn": true,
+    "notes": "Tasty burgers with a view of the Koopgoot"
   }
 ]
