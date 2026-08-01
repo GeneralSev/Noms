@@ -21,4 +21,11 @@ const CONFIG = {
     center: [51.9223719, 4.4814759], // Rotterdam — Timmerhuis
     zoom: 15,
   },
+
+  // A "home" marker shown on the map (not a restaurant). Set to null to hide.
+  home: {
+    lat: 51.9223719,
+    lng: 4.4814759,
+    label: "Home — Timmerhuis",
+  },
 };

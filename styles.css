@@ -199,6 +199,19 @@ main {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
 }
 
+.home-badge {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: #fff;
+  border: 2px solid var(--accent);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  font-size: 17px;
+  line-height: 1;
+}
+
 .popup .notes {
   max-width: 220px;
 }

@@ -15,6 +15,7 @@ document.addEventListener("DOMContentLoaded", init);
 async function init() {
   applyBranding();
   map = initMap();
+  addHome();
   try {
     restaurants = await loadData();
   } catch (err) {
@@ -42,6 +43,23 @@ function initMap() {
   }).addTo(m);
   markersLayer = L.layerGroup().addTo(m);
   return m;
+}
+
+// A persistent "home" marker — not a restaurant, so it lives directly on the
+// map (survives search/filter) rather than in markersLayer.
+function addHome() {
+  const h = CONFIG.home;
+  if (!h || typeof h.lat !== "number" || typeof h.lng !== "number") return;
+  const icon = L.divIcon({
+    className: "home-pin",
+    html: `<span class="home-badge">🏠</span>`,
+    iconSize: [32, 32],
+    iconAnchor: [16, 16],
+    popupAnchor: [0, -16],
+  });
+  L.marker([h.lat, h.lng], { icon, zIndexOffset: 1000 })
+    .addTo(map)
+    .bindPopup(`<div class="popup"><strong>${escapeHtml(h.label || "Home")}</strong></div>`);
 }
 
 // ── Data ────────────────────────────────────────────────────────
@@ -88,6 +106,11 @@ function renderMarkers(list) {
       .bindPopup(popupHtml(r));
     markersByName.set(r.name, marker);
     points.push([r.lat, r.lng]);
+  }
+
+  const h = CONFIG.home;
+  if (h && typeof h.lat === "number" && typeof h.lng === "number") {
+    points.push([h.lat, h.lng]); // keep home in view when the map auto-fits
   }
 
   if (points.length) map.fitBounds(points, { padding: [40, 40], maxZoom: 15 });

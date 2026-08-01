@@ -5,7 +5,7 @@
     "lat": 51.9226158,
     "lng": 4.4832388,
     "score": 7,
-    "cuisine": ["italian", "Carbonara"],
+    "cuisine": ["Italian", "Carbonara"],
     "wouldReturn": true,
     "notes": "Best carbonara in town"
   },
