@@ -177,5 +177,15 @@
     "score": 5,
     "cuisine": ["Fast food", "Burgers"],
     "wouldReturn": true
+  },
+  {
+    "name": "Five Guys",
+    "address": "Hoogstraat 170-172, 3011 PV Rotterdam, Netherlands",
+    "lat": 51.9205733,
+    "lng": 4.4844977,
+    "score": 5,
+    "cuisine": ["Fast food", "Burgers"],
+    "wouldReturn": true,
+    "notes": "Large portions, tasty burgers and chips"
   }
 ]
