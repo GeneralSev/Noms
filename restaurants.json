@@ -416,5 +416,15 @@
     "cuisine": ["Mexican", "American", "Burgers", "Ribs"],
     "wouldReturn": true,
     "notes": "Cute stylized interior and tasty food"
+  },
+  {
+    "name": "De Eekhoorn",
+    "address": "Prinses Beatrixlaan 24, 3062 CM Rotterdam, Netherlands",
+    "lat": 51.9399659,
+    "lng": 4.5261954,
+    "score": 3,
+    "cuisine": ["Eethuis", "Dutch"],
+    "wouldReturn": false,
+    "notes": "Mediocre Dutch style fast food"
   }
 ]
