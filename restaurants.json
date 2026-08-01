@@ -38,5 +38,15 @@
     "cuisine": ["Italian"],
     "wouldReturn": true,
     "notes": "Family friendly chain restaurant"
+  },
+  {
+    "name": "De IJssalon",
+    "address": "Meent 69A, 3011 JD Rotterdam, Netherlands",
+    "lat": 51.9229253,
+    "lng": 4.4838906,
+    "score": 7,
+    "cuisine": ["Ice cream", "Dessert"],
+    "wouldReturn": true,
+    "notes": "Best ice cream we've had in central Rotterdam"
   }
 ]
