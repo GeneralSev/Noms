@@ -263,7 +263,7 @@
     "lat": 51.9328032,
     "lng": 4.4868081,
     "score": 5,
-    "cuisine": ["Italian", "Classy"],
+    "cuisine": ["Italian", "Classy", "Imco"],
     "wouldReturn": true,
     "notes": "Very fancy Italian place"
   },
@@ -273,7 +273,7 @@
     "lat": 51.9322352,
     "lng": 4.4813123,
     "score": 7,
-    "cuisine": ["Turkish", "Grilled meat"],
+    "cuisine": ["Turkish", "Grilled meat", "Imco"],
     "wouldReturn": true,
     "notes": "Delicious meat platter"
   },
@@ -326,5 +326,15 @@
     "cuisine": ["Japanese", "Ramen", "Katsu"],
     "wouldReturn": true,
     "notes": "Not as good as the West-Kruiskade Takumi"
+  },
+  {
+    "name": "What's Up India",
+    "address": "Eendrachtsweg, 3012 LB Rotterdam, Netherlands",
+    "lat": 51.9153883,
+    "lng": 4.4749824,
+    "score": 6,
+    "cuisine": ["Indian"],
+    "wouldReturn": true,
+    "notes": "Really colorful interior"
   }
 ]
