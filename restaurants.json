@@ -168,5 +168,14 @@
     "cuisine": ["Fast food", "Burgers"],
     "wouldReturn": true,
     "notes": "Not bad, but not the cleanest entrance"
+  },
+  {
+    "name": "Burger King",
+    "address": "Lijnbaan 100, 3012 ER Rotterdam, Netherlands",
+    "lat": 51.9198791,
+    "lng": 4.4776644,
+    "score": 5,
+    "cuisine": ["Fast food", "Burgers"],
+    "wouldReturn": true
   }
 ]
