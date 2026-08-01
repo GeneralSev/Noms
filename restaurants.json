@@ -58,5 +58,15 @@
     "cuisine": ["Burgers", "Brasserie"],
     "wouldReturn": true,
     "notes": "Tasty focaccia chicken supreme"
+  },
+  {
+    "name": "Umami by Han",
+    "address": "Binnenrotte 140, 3011 HC Rotterdam, Netherlands",
+    "lat": 51.9226659,
+    "lng": 4.4860305,
+    "score": 6,
+    "cuisine": ["Asian", "Fusion"],
+    "wouldReturn": true,
+    "notes": "Tasty gyozas"
   }
 ]
