@@ -113,7 +113,11 @@ function renderMarkers(list) {
     points.push([h.lat, h.lng]); // keep home in view when the map auto-fits
   }
 
-  if (points.length) map.fitBounds(points, { padding: [40, 40], maxZoom: 15 });
+  // With lockView, keep the map on CONFIG.map.center/zoom (set at init) so a
+  // far-away pin can't zoom the whole map out. Otherwise auto-fit to all pins.
+  if (!CONFIG.map.lockView && points.length) {
+    map.fitBounds(points, { padding: [40, 40], maxZoom: 15 });
+  }
 }
 
 function renderList(list) {

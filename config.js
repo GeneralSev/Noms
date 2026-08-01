@@ -14,18 +14,24 @@ const CONFIG = {
   // The rating scale. Change these two numbers to rescore everything.
   score: { min: 1, max: 7 },
 
-  // Default map view. Only used before any pins load — once you have
-  // restaurants, the map auto-fits to show them all. Set this to your
-  // home city so an empty map still looks sensible.
+  // Default map view. This is where the map opens.
+  //
+  // `lockView: true` keeps the map fixed on this center/zoom on load
+  // (recommended once you have pins spread across cities or countries, so
+  // one far-away restaurant doesn't zoom the whole map out to a continent).
+  // Set `lockView: false` to instead auto-fit the view to show every pin.
+  // Either way you can still pan/zoom freely, and clicking a list item flies
+  // to that restaurant.
   map: {
     center: [51.9223719, 4.4814759], // Rotterdam — Timmerhuis
     zoom: 15,
+    lockView: true,
   },
 
   // A "home" marker shown on the map (not a restaurant). Set to null to hide.
   home: {
     lat: 51.9223719,
     lng: 4.4814759,
-    label: "Home — Timmerhuis",
+    label: "Sha's lair",
   },
 };
