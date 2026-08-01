@@ -373,7 +373,7 @@
     "lat": 51.9170588,
     "lng": 4.4846126,
     "score": 6,
-    "cuisine": ["English", "Classy"],
+    "cuisine": ["English", "Classy", "Boat"],
     "wouldReturn": true,
     "notes": "Nice English food on a cute boat"
   },
@@ -383,7 +383,7 @@
     "lat": 51.8977998,
     "lng": 4.4732765,
     "score": 6,
-    "cuisine": ["Classy", "Brasserie", "Grill"],
+    "cuisine": ["Classy", "Brasserie", "Grill", "Boat"],
     "wouldReturn": true,
     "notes": "Lovely dinner spot on the SS Rotterdam. Good food and interesting surroundings"
   }
