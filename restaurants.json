@@ -1,32 +1,12 @@
 [
   {
-    "name": "Joe's Pizza",
-    "address": "7 Carmine St, New York, NY 10014",
-    "lat": 40.73058,
-    "lng": -74.00265,
-    "score": 6,
-    "cuisine": ["pizza", "casual"],
-    "wouldReturn": true,
-    "notes": "Classic plain slice. Always a line but it moves fast."
-  },
-  {
-    "name": "Superiority Burger",
-    "address": "119 Avenue A, New York, NY 10009",
-    "lat": 40.72701,
-    "lng": -73.98368,
+    "name": "Ristorante Napoli",
+    "address": "Meent 81a, 3011 JG Rotterdam, Netherlands",
+    "lat": 51.9226158,
+    "lng": 4.4832388,
     "score": 7,
-    "cuisine": ["veggie", "burgers"],
+    "cuisine": ["italian", "Carbonara"],
     "wouldReturn": true,
-    "notes": "The burger and the sides. Get the gelato if it's on."
-  },
-  {
-    "name": "Example Diner (delete me)",
-    "address": "100 Broadway, New York, NY",
-    "lat": 40.70808,
-    "lng": -74.01121,
-    "score": 3,
-    "cuisine": ["diner"],
-    "wouldReturn": false,
-    "notes": "Placeholder showing a low score. Delete once you add real places."
+    "notes": "Best carbonara in town"
   }
 ]

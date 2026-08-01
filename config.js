@@ -18,7 +18,7 @@ const CONFIG = {
   // restaurants, the map auto-fits to show them all. Set this to your
   // home city so an empty map still looks sensible.
   map: {
-    center: [40.7178, -73.9925], // [lat, lng]
-    zoom: 12,
+    center: [51.9223719, 4.4814759], // Rotterdam — Timmerhuis
+    zoom: 15,
   },
 };
