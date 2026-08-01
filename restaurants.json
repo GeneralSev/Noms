@@ -8,5 +8,15 @@
     "cuisine": ["italian", "Carbonara"],
     "wouldReturn": true,
     "notes": "Best carbonara in town"
+  },
+  {
+    "name": "Maruki",
+    "address": "Binnenrotte 219, 3011 HC Rotterdam, Netherlands",
+    "lat": 51.9225520,
+    "lng": 4.4848713,
+    "score": 3,
+    "cuisine": ["Japanese"],
+    "wouldReturn": false,
+    "notes": "Their Curry katsu was made with ground up chicken instead of real chicken."
   }
 ]
