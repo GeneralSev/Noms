@@ -28,5 +28,14 @@
     "cuisine": ["Asian", "Vietnamese"],
     "wouldReturn": true,
     "notes": "Beautiful interior"
+  },
+  {
+    "name": "Happy Italy",
+    "address": "Binnenrotte 102A, 3011 HC Rotterdam, Netherlands",
+    "lat": 51.9230535,
+    "lng": 4.4853921,
+    "score": 5,
+    "cuisine": ["Italian"],
+    "notes": "Family friendly chain restaurant"
   }
 ]
