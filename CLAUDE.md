@@ -31,6 +31,10 @@ would/wouldn't return"*, do this:
 
 Confirm the geocoded location back to the user if the match is at all ambiguous.
 
+Fix obvious spelling, punctuation, and capitalization in the user's `notes`
+(and other free text) without asking — e.g. "forcaccia" → "focaccia". Don't
+change their meaning, wording, or tone; just clean up typos.
+
 ## Data schema (one object per restaurant)
 
 ```json
