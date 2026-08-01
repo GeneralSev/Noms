@@ -18,5 +18,15 @@
     "cuisine": ["Japanese"],
     "wouldReturn": false,
     "notes": "Their Curry katsu was made with ground up chicken instead of real chicken."
+  },
+  {
+    "name": "Little V",
+    "address": "Grotekerkplein 109, 3011 GC Rotterdam, Netherlands",
+    "lat": 51.9218942,
+    "lng": 4.4848927,
+    "score": 6,
+    "cuisine": ["Asian", "Vietnamese"],
+    "wouldReturn": true,
+    "notes": "Beautiful interior"
   }
 ]
