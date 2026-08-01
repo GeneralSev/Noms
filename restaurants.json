@@ -128,5 +128,15 @@
     "cuisine": ["Brunch"],
     "wouldReturn": true,
     "notes": "Decadent! Like chicken on donuts. Runny egg white 😞"
+  },
+  {
+    "name": "Rodizio",
+    "address": "Kruiskade, 3012 EH Rotterdam, Netherlands",
+    "lat": 51.9226180,
+    "lng": 4.4764420,
+    "score": 6,
+    "cuisine": ["Brazilian", "Meat", "All you can eat"],
+    "wouldReturn": true,
+    "notes": "Meat! Meat! Meat! All you can eat!"
   }
 ]
