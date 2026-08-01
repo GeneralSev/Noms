@@ -207,5 +207,15 @@
     "cuisine": ["Sushi", "Classy"],
     "wouldReturn": true,
     "notes": "Real good sushi and service. Not all you can eat."
+  },
+  {
+    "name": "Shiki Sushi & Lounge",
+    "address": "Prins Alexanderlaan 37A, 3068 PN Rotterdam, Netherlands",
+    "lat": 51.9527685,
+    "lng": 4.5503652,
+    "score": 6,
+    "cuisine": ["Sushi", "All you can eat", "Classy"],
+    "wouldReturn": true,
+    "notes": "Nice cocktails, first date!"
   }
 ]
