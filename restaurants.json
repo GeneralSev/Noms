@@ -282,9 +282,9 @@
     "address": "Henegouwerlaan 91B, 3021 CV Rotterdam, Netherlands",
     "lat": 51.9193305,
     "lng": 4.4632075,
-    "score": 5,
+    "score": 4,
     "cuisine": ["Indian"],
-    "wouldReturn": true,
+    "wouldReturn": false,
     "notes": "Tasty but very sweet butter chicken. And they ran out of rice?!"
   },
   {
