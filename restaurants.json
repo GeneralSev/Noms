@@ -336,5 +336,15 @@
     "cuisine": ["Indian"],
     "wouldReturn": true,
     "notes": "Really colorful interior"
+  },
+  {
+    "name": "Hudson",
+    "address": "Brandersplaats, 3011 EW Rotterdam, Netherlands",
+    "lat": 51.9170191,
+    "lng": 4.4803317,
+    "score": 6,
+    "cuisine": ["Burgers", "Brasserie"],
+    "wouldReturn": true,
+    "notes": "Really tasty burgers with Mamma"
   }
 ]
