@@ -197,5 +197,15 @@
     "cuisine": ["Poké bowl"],
     "wouldReturn": true,
     "notes": "Large bowl is a 2-day meal. Tasty sweet potato base!"
+  },
+  {
+    "name": "ITAMI - sushi, teppanyaki & loungebar",
+    "address": "Prinsendam 182, 3072 MA Rotterdam, Netherlands",
+    "lat": 51.9067325,
+    "lng": 4.4899300,
+    "score": 7,
+    "cuisine": ["Sushi", "Classy"],
+    "wouldReturn": true,
+    "notes": "Real good sushi and service. Not all you can eat."
   }
 ]
