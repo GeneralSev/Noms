@@ -236,5 +236,15 @@
     "cuisine": ["Sushi", "All you can eat"],
     "wouldReturn": true,
     "notes": "Tasty sushi, but not the best"
+  },
+  {
+    "name": "Bento Café",
+    "address": "Weena-Zuid 146, 3012 NC Rotterdam, Netherlands",
+    "lat": 51.9231715,
+    "lng": 4.4748480,
+    "score": 6,
+    "cuisine": ["Japanese", "Cute"],
+    "wouldReturn": true,
+    "notes": "Cute Japanese restaurant that serves bento boxes and onigiri"
   }
 ]
