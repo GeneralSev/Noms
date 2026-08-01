@@ -396,5 +396,15 @@
     "cuisine": ["Ramen", "Japanese"],
     "wouldReturn": true,
     "notes": "Tasty ramen in our building!"
+  },
+  {
+    "name": "KERA café",
+    "address": "Hertekade 100, 3011 XV Rotterdam, Netherlands",
+    "lat": 51.9157517,
+    "lng": 4.4883995,
+    "score": 7,
+    "cuisine": ["Cafe", "Cute", "Activity"],
+    "wouldReturn": true,
+    "notes": "Pottery painting was awesome"
   }
 ]
