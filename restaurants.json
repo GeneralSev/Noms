@@ -187,5 +187,15 @@
     "cuisine": ["Fast food", "Burgers"],
     "wouldReturn": true,
     "notes": "Large portions, tasty burgers and chips"
+  },
+  {
+    "name": "Hawaiian Poké Bowl",
+    "address": "Hoogstraat 185, 3011 PM Rotterdam, Netherlands",
+    "lat": 51.9204968,
+    "lng": 4.4831146,
+    "score": 6,
+    "cuisine": ["Poké bowl"],
+    "wouldReturn": true,
+    "notes": "Large bowl is a 2-day meal. Tasty sweet potato base!"
   }
 ]
