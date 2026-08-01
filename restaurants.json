@@ -78,5 +78,15 @@
     "cuisine": ["Korean fried chicken", "Fast food"],
     "wouldReturn": true,
     "notes": "Tasty Korean chicken"
+  },
+  {
+    "name": "DeliGriek",
+    "address": "Pannekoekstraat 58A, 3011 LJ Rotterdam, Netherlands",
+    "lat": 51.9231765,
+    "lng": 4.4882449,
+    "score": 5,
+    "cuisine": ["Greek", "Gyros"],
+    "wouldReturn": true,
+    "notes": "Delicious grilled chicken in the gyros"
   }
 ]
