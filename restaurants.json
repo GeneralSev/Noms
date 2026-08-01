@@ -346,5 +346,15 @@
     "cuisine": ["Burgers", "Brasserie"],
     "wouldReturn": true,
     "notes": "Really tasty burgers with Mamma"
+  },
+  {
+    "name": "The Goat",
+    "address": "Schiedamse Vest 14, 3011 BA Rotterdam, Netherlands",
+    "lat": 51.9171070,
+    "lng": 4.4803089,
+    "score": 5,
+    "cuisine": ["Chicken", "Burgers", "Imco"],
+    "wouldReturn": true,
+    "notes": "Chicken burger place, not very impressed on first visit but want to go again"
   }
 ]
