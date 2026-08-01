@@ -296,5 +296,15 @@
     "cuisine": ["Poké bowl"],
     "wouldReturn": false,
     "notes": "Don't get takeout from here, the other Hawaii Poké Bowl was better"
+  },
+  {
+    "name": "Takumi",
+    "address": "West-Kruiskade 9B, 3014 AJ Rotterdam, Netherlands",
+    "lat": 51.9208172,
+    "lng": 4.4701697,
+    "score": 6,
+    "cuisine": ["Japanese", "Ramen", "Katsu"],
+    "wouldReturn": true,
+    "notes": "Tasty Japanese ramen and katsu curry"
   }
 ]
