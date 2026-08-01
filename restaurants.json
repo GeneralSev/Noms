@@ -226,5 +226,15 @@
     "score": 2,
     "wouldReturn": false,
     "notes": "Terrible music, don't even remember the food"
+  },
+  {
+    "name": "MISO SUSHI PLAZA",
+    "address": "Plaza 2, 3012 CW Rotterdam, Netherlands",
+    "lat": 51.9228445,
+    "lng": 4.4724510,
+    "score": 5,
+    "cuisine": ["Sushi", "All you can eat"],
+    "wouldReturn": true,
+    "notes": "Tasty sushi, but not the best"
   }
 ]
