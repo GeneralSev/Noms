@@ -68,5 +68,15 @@
     "cuisine": ["Asian", "Fusion"],
     "wouldReturn": true,
     "notes": "Tasty gyozas"
+  },
+  {
+    "name": "Gangnam Chicken",
+    "address": "Botersloot 18A, 3011 HG Rotterdam, Netherlands",
+    "lat": 51.9232827,
+    "lng": 4.4865952,
+    "score": 5,
+    "cuisine": ["Korean fried chicken", "Fast food"],
+    "wouldReturn": true,
+    "notes": "Tasty Korean chicken"
   }
 ]
