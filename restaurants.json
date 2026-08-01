@@ -366,5 +366,15 @@
     "cuisine": ["Burgers"],
     "wouldReturn": false,
     "notes": "Mediocre smash burger for too much money"
+  },
+  {
+    "name": "Vessel 11",
+    "address": "Wijnhaven 101, 3011 WN Rotterdam, Netherlands",
+    "lat": 51.9170588,
+    "lng": 4.4846126,
+    "score": 6,
+    "cuisine": ["English", "Classy"],
+    "wouldReturn": true,
+    "notes": "Nice English food on a cute boat"
   }
 ]
