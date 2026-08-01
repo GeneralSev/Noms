@@ -52,7 +52,7 @@ function addHome() {
   if (!h || typeof h.lat !== "number" || typeof h.lng !== "number") return;
   const icon = L.divIcon({
     className: "home-pin",
-    html: `<span class="home-badge">🏠</span>`,
+    html: `<span class="home-badge"><img src="favicon.png" alt="" /></span>`,
     iconSize: [32, 32],
     iconAnchor: [16, 16],
     popupAnchor: [0, -16],
