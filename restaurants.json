@@ -158,5 +158,15 @@
     "cuisine": ["Fast food", "Burgers"],
     "wouldReturn": true,
     "notes": "Tasty burgers with a view of the Koopgoot"
+  },
+  {
+    "name": "McDonald's",
+    "address": "Coolsingel 207, 3012 AG Rotterdam, Netherlands",
+    "lat": 51.9183004,
+    "lng": 4.4800853,
+    "score": 4,
+    "cuisine": ["Fast food", "Burgers"],
+    "wouldReturn": true,
+    "notes": "Not bad, but not the cleanest entrance"
   }
 ]
