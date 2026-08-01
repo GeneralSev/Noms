@@ -138,5 +138,15 @@
     "cuisine": ["Brazilian", "Meat", "All you can eat"],
     "wouldReturn": true,
     "notes": "Meat! Meat! Meat! All you can eat!"
+  },
+  {
+    "name": "McDonald's",
+    "address": "Coolsingel 44, 3011 AD Rotterdam, Netherlands",
+    "lat": 51.9216028,
+    "lng": 4.4796928,
+    "score": 5,
+    "cuisine": ["Fast food", "Burgers"],
+    "wouldReturn": true,
+    "notes": "Local McDonald's in a glass cage. Delicious"
   }
 ]
