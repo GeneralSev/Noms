@@ -406,5 +406,15 @@
     "cuisine": ["Cafe", "Cute", "Activity"],
     "wouldReturn": true,
     "notes": "Pottery painting was awesome"
+  },
+  {
+    "name": "Texican",
+    "address": "West-Kruiskade 76-78, 3014 AW Rotterdam, Netherlands",
+    "lat": 51.9198840,
+    "lng": 4.4665006,
+    "score": 6,
+    "cuisine": ["Mexican", "American", "Burgers", "Ribs"],
+    "wouldReturn": true,
+    "notes": "Cute stylized interior and tasty food"
   }
 ]
