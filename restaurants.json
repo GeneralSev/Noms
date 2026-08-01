@@ -36,6 +36,7 @@
     "lng": 4.4853921,
     "score": 5,
     "cuisine": ["Italian"],
+    "wouldReturn": true,
     "notes": "Family friendly chain restaurant"
   }
 ]
