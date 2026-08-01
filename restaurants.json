@@ -266,5 +266,15 @@
     "cuisine": ["Italian", "Classy"],
     "wouldReturn": true,
     "notes": "Very fancy Italian place"
+  },
+  {
+    "name": "Anadolu Sofra",
+    "address": "Noordmolenstraat 77, 3035 RH Rotterdam, Netherlands",
+    "lat": 51.9322352,
+    "lng": 4.4813123,
+    "score": 7,
+    "cuisine": ["Turkish", "Grilled meat"],
+    "wouldReturn": true,
+    "notes": "Delicious meat platter"
   }
 ]
