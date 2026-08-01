@@ -298,7 +298,7 @@
     "notes": "Don't get takeout from here, the other Hawaii Poké Bowl was better"
   },
   {
-    "name": "Takumi",
+    "name": "Takumi West-Kruiskade",
     "address": "West-Kruiskade 9B, 3014 AJ Rotterdam, Netherlands",
     "lat": 51.9208172,
     "lng": 4.4701697,
@@ -316,5 +316,15 @@
     "cuisine": ["Korean", "Kimbap", "Korean fried chicken"],
     "wouldReturn": true,
     "notes": "Pretty good fried chicken"
+  },
+  {
+    "name": "Takumi Markthal",
+    "address": "Grotemarkt 186, 3011 PA Rotterdam, Netherlands",
+    "lat": 51.9203212,
+    "lng": 4.4865106,
+    "score": 5,
+    "cuisine": ["Japanese", "Ramen", "Katsu"],
+    "wouldReturn": true,
+    "notes": "Not as good as the West-Kruiskade Takumi"
   }
 ]
