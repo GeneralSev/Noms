@@ -256,5 +256,15 @@
     "cuisine": ["Fast food", "Chicken", "Burgers"],
     "wouldReturn": true,
     "notes": "Really tasty chicken strips! Good burgers too."
+  },
+  {
+    "name": "Lucia",
+    "address": "Zaagmolenkade 124, 3035 KD Rotterdam, Netherlands",
+    "lat": 51.9328032,
+    "lng": 4.4868081,
+    "score": 5,
+    "cuisine": ["Italian", "Classy"],
+    "wouldReturn": true,
+    "notes": "Very fancy Italian place"
   }
 ]
