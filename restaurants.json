@@ -286,5 +286,15 @@
     "cuisine": ["Indian"],
     "wouldReturn": true,
     "notes": "Tasty but very sweet butter chicken. And they ran out of rice?!"
+  },
+  {
+    "name": "Hawaii Poké Bowl",
+    "address": "Stadhuisplein 32, 3012 AS Rotterdam, Netherlands",
+    "lat": 51.9220909,
+    "lng": 4.4771169,
+    "score": 3,
+    "cuisine": ["Poké bowl"],
+    "wouldReturn": false,
+    "notes": "Don't get takeout from here, the other Hawaii Poké Bowl was better"
   }
 ]
