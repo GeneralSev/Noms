@@ -98,5 +98,15 @@
     "cuisine": ["Pasta"],
     "wouldReturn": true,
     "notes": "They make tasty pasta in a cheese wheel"
+  },
+  {
+    "name": "By Jarmusch",
+    "address": "Goudsesingel 64, 3011 KD Rotterdam, Netherlands",
+    "lat": 51.9239109,
+    "lng": 4.4928808,
+    "score": 6,
+    "cuisine": ["Brunch"],
+    "wouldReturn": true,
+    "notes": "Chicken and waffles!"
   }
 ]
