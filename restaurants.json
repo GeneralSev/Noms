@@ -48,5 +48,15 @@
     "cuisine": ["Ice cream", "Dessert"],
     "wouldReturn": true,
     "notes": "Best ice cream we've had in central Rotterdam"
+  },
+  {
+    "name": "THOMS Restaurant & Underground Bar",
+    "address": "Meent 129, 3011 JH Rotterdam, Netherlands",
+    "lat": 51.9219470,
+    "lng": 4.4814427,
+    "score": 5,
+    "cuisine": ["Burgers", "Brasserie"],
+    "wouldReturn": true,
+    "notes": "Tasty focaccia chicken supreme"
   }
 ]
