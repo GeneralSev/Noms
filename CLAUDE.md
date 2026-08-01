@@ -62,7 +62,6 @@ Confirm the geocoded location back to the user if the match is at all ambiguous.
   plain form.
 - **Commit messages:** short imperative subject, e.g. `Add Little V (Vietnamese,
   score 6)`. Keep the `Co-Authored-By: Claude …` trailer.
-- **Don't** re-add the example/placeholder restaurants that were removed.
 - The `LF will be replaced by CRLF` git warning is harmless — ignore it.
 - Permissions for geocoding and git add/commit/push are pre-approved in
   `.claude/settings.local.json` (gitignored, machine-local).
@@ -72,16 +71,3 @@ Confirm the geocoded location back to the user if the match is at all ambiguous.
 `config.js` has a `home` entry (currently Rotterdam — Timmerhuis) shown as a 🏠
 on the map. It is not a restaurant and is excluded from the list/search. Set
 `home: null` to hide it.
-
-## Editing the favicon
-
-`favicon.png` (96px) and `apple-touch-icon.png` (180px) exist. If asked to change
-the icon, resize from a high-res source with Pillow or PowerShell System.Drawing
-(Pillow is usually not installed; System.Drawing works on Windows).
-
-## Verifying changes
-
-There is no build. To eyeball changes, the user runs VS Code **Live Server** on
-`index.html` (the in-app browser pane cannot open localhost directly). Don't
-fight the preview tooling — just push and let the user check locally or on the
-live site.
