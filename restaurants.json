@@ -246,5 +246,15 @@
     "cuisine": ["Japanese", "Cute"],
     "wouldReturn": true,
     "notes": "Cute Japanese restaurant that serves bento boxes and onigiri"
+  },
+  {
+    "name": "Waw Burger",
+    "address": "Korte Lijnbaan 21, 3012 EC Rotterdam, Netherlands",
+    "lat": 51.9218210,
+    "lng": 4.4745612,
+    "score": 6,
+    "cuisine": ["Fast food", "Chicken", "Burgers"],
+    "wouldReturn": true,
+    "notes": "Really tasty chicken strips! Good burgers too."
   }
 ]
