@@ -516,5 +516,15 @@
     "cuisine": ["Family", "South African"],
     "wouldReturn": true,
     "notes": "Marianne's first Spur experience!"
+  },
+  {
+    "name": "Taverna Dionyssos",
+    "address": "Myrthios, 740 60 Plakias, Crete, Greece",
+    "lat": 35.1992759,
+    "lng": 24.4030841,
+    "score": 7,
+    "cuisine": ["View", "Greek"],
+    "wouldReturn": true,
+    "notes": "Huge delicious portions with a beautiful view over Plakias"
   }
 ]
