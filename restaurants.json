@@ -446,5 +446,15 @@
     "cuisine": ["Pizza"],
     "wouldReturn": true,
     "notes": "Delicious pizza of undetermined ethnicity"
+  },
+  {
+    "name": "Griekse Taverna Broersvest",
+    "address": "Broersveld 112, 3111 LK Schiedam, Netherlands",
+    "lat": 51.9164555,
+    "lng": 4.4014064,
+    "score": 6,
+    "cuisine": ["Greek", "Meat"],
+    "wouldReturn": true,
+    "notes": "Freaking great meat platter"
   }
 ]
