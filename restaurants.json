@@ -570,8 +570,8 @@
   {
     "name": "Earth Restaurant & Shop",
     "address": "Plot 1811, Route 319, Struisbaai 7285, South Africa",
-    "lat": -34.8041134,
-    "lng": 20.0541365,
+    "lat": -34.773389,
+    "lng": 20.030139,
     "score": 6,
     "cuisine": ["Classy", "South African", "Traditional"],
     "wouldReturn": true,
