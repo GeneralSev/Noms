@@ -456,5 +456,15 @@
     "cuisine": ["Greek", "Meat"],
     "wouldReturn": true,
     "notes": "Freaking great meat platter"
+  },
+  {
+    "name": "Polka Schiedam",
+    "address": "Broersveld 121b, 3111 LG Schiedam, Netherlands",
+    "lat": 51.9169937,
+    "lng": 4.4014110,
+    "score": 5,
+    "cuisine": ["Polish", "Home cooked"],
+    "wouldReturn": true,
+    "notes": "Tasty home cooked meals like pierogi and mashed potatoes"
   }
 ]
