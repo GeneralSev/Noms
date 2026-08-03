@@ -586,5 +586,15 @@
     "cuisine": ["Pizza", "South African", "Family"],
     "wouldReturn": true,
     "notes": "Best pizza, definitely not Italian though! Get the Chicken Supreme"
+  },
+  {
+    "name": "La Sole del Pimpi",
+    "address": "Calle Zegrí 4, 29015 Málaga, Spain",
+    "lat": 36.7218510,
+    "lng": -4.4176252,
+    "score": 6,
+    "cuisine": ["Spanish"],
+    "wouldReturn": true,
+    "notes": "Ate here with Aunt Lin, good food. Antonio Banderas owns it. Like always, get the Patatas Bravas"
   }
 ]
