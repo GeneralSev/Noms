@@ -466,5 +466,15 @@
     "cuisine": ["Polish", "Home cooked"],
     "wouldReturn": true,
     "notes": "Tasty home cooked meals like pierogi and mashed potatoes"
+  },
+  {
+    "name": "Yokohama Ramen Saito",
+    "address": "Parkweg 406, 3119 CV Schiedam, Netherlands",
+    "lat": 51.9206215,
+    "lng": 4.3957391,
+    "score": 7,
+    "cuisine": ["Ramen"],
+    "wouldReturn": true,
+    "notes": "Best ramen I have ever had, and that includes in Japan"
   }
 ]
