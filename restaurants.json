@@ -596,5 +596,25 @@
     "cuisine": ["Spanish"],
     "wouldReturn": true,
     "notes": "Ate here with Aunt Lynn, good food. Antonio Banderas owns it. Like always, get the Patatas Bravas"
+  },
+  {
+    "name": "Trattoria alla Madonna",
+    "address": "San Polo 594, 30125 Venezia, Italy",
+    "lat": 45.4382223,
+    "lng": 12.3345513,
+    "score": 7,
+    "cuisine": ["Classy", "Italian"],
+    "wouldReturn": true,
+    "notes": "Cute date with Marianne. She drank half a liter of wine"
+  },
+  {
+    "name": "La Bitta",
+    "address": "Calle Lunga de San Barnaba, Dorsoduro, 30123 Venezia, Italy",
+    "lat": 45.4327710,
+    "lng": 12.3246263,
+    "score": 5,
+    "cuisine": ["Italian"],
+    "wouldReturn": true,
+    "notes": "Had a cute handwritten menu"
   }
 ]
