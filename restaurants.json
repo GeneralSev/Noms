@@ -566,5 +566,15 @@
     "cuisine": ["Mamma", "South African"],
     "wouldReturn": true,
     "notes": "Old faithful Potpourri. Marianne visited it once so it gets to go on the list!"
+  },
+  {
+    "name": "Earth Restaurant & Shop",
+    "address": "Plot 1811, Route 319, Struisbaai 7285, South Africa",
+    "lat": -34.8041134,
+    "lng": 20.0541365,
+    "score": 6,
+    "cuisine": ["Classy", "South African", "Traditional"],
+    "wouldReturn": true,
+    "notes": "Nice place outside Struisbaai that serves some traditional Afrikaans foods"
   }
 ]
