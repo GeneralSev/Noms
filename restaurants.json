@@ -436,5 +436,15 @@
     "cuisine": ["Asian"],
     "wouldReturn": true,
     "notes": "They do all the Asian cuisines! Recommend their Koe la kai."
+  },
+  {
+    "name": "La Venezia IJssalon & Pizzeria",
+    "address": "Rubensplein 1A, 3117 BJ Schiedam, Netherlands",
+    "lat": 51.9117322,
+    "lng": 4.3832977,
+    "score": 6,
+    "cuisine": ["Pizza"],
+    "wouldReturn": true,
+    "notes": "Delicious pizza of undetermined ethnicity"
   }
 ]
