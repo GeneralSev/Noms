@@ -526,5 +526,15 @@
     "cuisine": ["View", "Greek"],
     "wouldReturn": true,
     "notes": "Huge delicious portions with a beautiful view over Plakias"
+  },
+  {
+    "name": "Peskesi",
+    "address": "Kapetan Charalampi 6-8, 712 02 Heraklion, Crete, Greece",
+    "lat": 35.3401650,
+    "lng": 25.1324977,
+    "score": 7,
+    "cuisine": ["Greek", "Traditional"],
+    "wouldReturn": true,
+    "notes": "Delicious traditional food in a very cute interior/exterior. They marked their food based on distance travelled from local farms."
   }
 ]
