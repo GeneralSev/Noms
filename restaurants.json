@@ -506,5 +506,15 @@
     "cuisine": ["Greek", "Salad"],
     "wouldReturn": true,
     "notes": "Food was ok, but their salad and salad sauce was one we kept wanting to go back for."
+  },
+  {
+    "name": "Santa Ana Spur",
+    "address": "Victoria Wharf Shopping Centre, V&A Waterfront, Cape Town 8001, South Africa",
+    "lat": -33.9034878,
+    "lng": 18.4206275,
+    "score": 6,
+    "cuisine": ["Family", "South African"],
+    "wouldReturn": true,
+    "notes": "Marianne's first Spur experience!"
   }
 ]
