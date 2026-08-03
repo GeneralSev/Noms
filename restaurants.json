@@ -556,5 +556,15 @@
     "cuisine": ["Greek", "Meat"],
     "wouldReturn": true,
     "notes": "Delicious meat bar. First taste of Crete for us!"
+  },
+  {
+    "name": "Suidpunt Potpourri",
+    "address": "Main Road 25, L'Agulhas 7287, South Africa",
+    "lat": -34.8276244,
+    "lng": 20.0107035,
+    "score": 6,
+    "cuisine": ["Mamma", "South African"],
+    "wouldReturn": true,
+    "notes": "Old faithful Potpourri. Marianne visited it once so it gets to go on the list!"
   }
 ]
