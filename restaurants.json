@@ -546,5 +546,15 @@
     "cuisine": ["Greek", "Chicken"],
     "wouldReturn": true,
     "notes": "Huge portions in a very local tavern"
+  },
+  {
+    "name": "Kalamaki Meat Bar",
+    "address": "Apostolou Pavlou (Lions Square), 712 02 Heraklion, Crete, Greece",
+    "lat": 35.3391412,
+    "lng": 25.1330038,
+    "score": 6,
+    "cuisine": ["Greek", "Meat"],
+    "wouldReturn": true,
+    "notes": "Delicious meat bar. First taste of Crete for us!"
   }
 ]
