@@ -476,5 +476,15 @@
     "cuisine": ["Ramen"],
     "wouldReturn": true,
     "notes": "Best ramen I have ever had, and that includes in Japan"
+  },
+  {
+    "name": "Restaurant Or'O",
+    "address": "Njegoševa 3, 84220 Žabljak, Montenegro",
+    "lat": 43.1550045,
+    "lng": 19.1201789,
+    "score": 7,
+    "cuisine": ["Balkan", "Eastern European"],
+    "wouldReturn": true,
+    "notes": "The best Nutella and cherry jam crepe ever. And their mushroom sauce on the chicken, to die for."
   }
 ]
