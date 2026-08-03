@@ -576,5 +576,15 @@
     "cuisine": ["Classy", "South African", "Traditional"],
     "wouldReturn": true,
     "notes": "Nice place outside Struisbaai that serves some traditional Afrikaans foods"
+  },
+  {
+    "name": "Panarottis",
+    "address": "Somerset Mall, Somerset West 7130, South Africa",
+    "lat": -34.0837652,
+    "lng": 18.8261662,
+    "score": 7,
+    "cuisine": ["Pizza", "South African", "Family"],
+    "wouldReturn": true,
+    "notes": "Best pizza, definitely not Italian though! Get the Chicken Supreme"
   }
 ]
