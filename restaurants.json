@@ -486,5 +486,15 @@
     "cuisine": ["Balkan", "Eastern European"],
     "wouldReturn": true,
     "notes": "The best Nutella and cherry jam crepe ever. And their mushroom sauce on the chicken, to die for."
+  },
+  {
+    "name": "To Briki",
+    "address": "Firostefani, 847 00 Santorini (Thira), Greece",
+    "lat": 36.4259432,
+    "lng": 25.4286980,
+    "score": 6,
+    "cuisine": ["Greek", "Classy"],
+    "wouldReturn": true,
+    "notes": "Amazing sunset view over the volcano. The pasta was amazing."
   }
 ]
