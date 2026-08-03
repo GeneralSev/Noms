@@ -616,5 +616,15 @@
     "cuisine": ["Italian"],
     "wouldReturn": true,
     "notes": "Had a cute handwritten menu"
+  },
+  {
+    "name": "Din Tai Fung Xinsheng Branch",
+    "address": "No. 277, Section 2, Xinyi Road, Zhongzheng District, Taipei 10057, Taiwan",
+    "lat": 25.0348308,
+    "lng": 121.5258048,
+    "score": 7,
+    "cuisine": ["Dumpling", "Taiwan"],
+    "wouldReturn": true,
+    "notes": "Best dumplings ever eaten in a cool massive multifloor dumpling restaurant"
   }
 ]
