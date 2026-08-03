@@ -426,5 +426,15 @@
     "cuisine": ["Eethuis", "Dutch"],
     "wouldReturn": false,
     "notes": "Mediocre Dutch style fast food"
+  },
+  {
+    "name": "Woo Ping",
+    "address": "Julianalaan 122B, 3116 JH Schiedam, Netherlands",
+    "lat": 51.9110912,
+    "lng": 4.3800444,
+    "score": 5,
+    "cuisine": ["Asian"],
+    "wouldReturn": true,
+    "notes": "They do all the Asian cuisines! Recommend their Koe la kai."
   }
 ]
