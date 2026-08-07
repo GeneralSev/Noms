@@ -666,5 +666,15 @@
     "cuisine": ["Korean"],
     "wouldReturn": true,
     "notes": "Delicious gimbap in a tiny shop. Would love to go back!"
+  },
+  {
+    "name": "Koong (개성만두 궁) — Gaeseong Traditional Dumpling House",
+    "address": "11-3 Insadong 10-gil, Jongno-gu, Seoul 03146, South Korea",
+    "lat": 37.5742321,
+    "lng": 126.9853876,
+    "score": 4,
+    "cuisine": ["Korean", "Traditional", "Michelin"],
+    "wouldReturn": true,
+    "notes": "Traditional interesting Korean food, but had some angry service"
   }
 ]
