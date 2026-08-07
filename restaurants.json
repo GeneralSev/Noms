@@ -626,5 +626,15 @@
     "cuisine": ["Dumpling", "Taiwan"],
     "wouldReturn": true,
     "notes": "Best dumplings ever eaten in a cool massive multifloor dumpling restaurant"
+  },
+  {
+    "name": "원조 씨앗호떡 (Wonjo Ssiat Hotteok)",
+    "address": "1392-35 Jung-dong, Haeundae-gu, Busan, South Korea",
+    "lat": 35.1604000,
+    "lng": 129.1620500,
+    "score": 7,
+    "cuisine": ["Korean", "Traditional", "Snacks"],
+    "wouldReturn": true,
+    "notes": "Delicious molten honey cheese pancake things"
   }
 ]
