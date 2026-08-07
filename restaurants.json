@@ -656,5 +656,15 @@
     "cuisine": ["Pizza"],
     "wouldReturn": true,
     "notes": "Great deep dish pizza and other decadent American foods"
+  },
+  {
+    "name": "153구포국수 해운대점 (153 Gupo Guksu Haeundae)",
+    "address": "620 Haeundae-ro, U-dong, Haeundae-gu, Busan 48904, South Korea",
+    "lat": 35.1629764,
+    "lng": 129.1584423,
+    "score": 7,
+    "cuisine": ["Korean"],
+    "wouldReturn": true,
+    "notes": "Delicious gimbap in a tiny shop. Would love to go back!"
   }
 ]
