@@ -646,5 +646,15 @@
     "cuisine": ["Steak"],
     "wouldReturn": true,
     "notes": "Delicious steaks in Busan"
+  },
+  {
+    "name": "Mad Dogs Haeundae",
+    "address": "18 Gunam-ro, Haeundae-gu, Busan, South Korea",
+    "lat": 35.1623000,
+    "lng": 129.1600000,
+    "score": 6,
+    "cuisine": ["Pizza"],
+    "wouldReturn": true,
+    "notes": "Great deep dish pizza and other decadent American foods"
   }
 ]
