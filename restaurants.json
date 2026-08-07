@@ -636,5 +636,15 @@
     "cuisine": ["Korean", "Traditional", "Snacks"],
     "wouldReturn": true,
     "notes": "Delicious molten honey cheese pancake things"
+  },
+  {
+    "name": "Outback Steakhouse Haeundae",
+    "address": "287 Haeundaehaebyeon-ro, Haeundae-gu, Busan 48095, South Korea",
+    "lat": 35.1604069,
+    "lng": 129.1616883,
+    "score": 6,
+    "cuisine": ["Steak"],
+    "wouldReturn": true,
+    "notes": "Delicious steaks in Busan"
   }
 ]
