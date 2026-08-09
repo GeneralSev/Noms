@@ -676,5 +676,15 @@
     "cuisine": ["Korean", "Traditional", "Michelin"],
     "wouldReturn": true,
     "notes": "Traditional interesting Korean food, but had some angry service"
+  },
+  {
+    "name": "Spaghetteria",
+    "address": "Pannekoekstraat 76A, 3011 LK Rotterdam, Netherlands",
+    "lat": 51.9226805,
+    "lng": 4.4885869,
+    "score": 4,
+    "cuisine": ["Italian", "Pasta"],
+    "wouldReturn": true,
+    "notes": "It was ok, not many options we liked and not as delicious as our homemade sauces"
   }
 ]
