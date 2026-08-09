@@ -684,7 +684,7 @@
     "lng": 4.4885869,
     "score": 4,
     "cuisine": ["Italian", "Pasta"],
-    "wouldReturn": true,
+    "wouldReturn": false,
     "notes": "It was ok, not many options we liked and not as delicious as our homemade sauces"
   }
 ]
