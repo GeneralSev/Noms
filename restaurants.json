@@ -756,5 +756,15 @@
     "cuisine": ["Bar", "Snacks"],
     "wouldReturn": true,
     "notes": "A hidden bar owned by the YouTuber Abroad in Japan. High quality and hidden behind a gacha machine. Very fun little experience."
+  },
+  {
+    "name": "Tonkatsu Oribe (とんかつ おりべ)",
+    "address": "Kunitachi Bldg, 1-9-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+    "lat": 35.7114705,
+    "lng": 139.7929392,
+    "score": 6,
+    "cuisine": ["Japanese"],
+    "wouldReturn": true,
+    "notes": "Cute little tonkatsu place with delicious food. Made us feel extra special when we walked out and saw a queue had formed all the way around the corner. Clearly a popular place with the locals."
   }
 ]
