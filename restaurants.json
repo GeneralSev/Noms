@@ -686,5 +686,15 @@
     "cuisine": ["Italian", "Pasta"],
     "wouldReturn": false,
     "notes": "It was ok, not many options we liked and not as delicious as our homemade sauces"
+  },
+  {
+    "name": "Nacionalni restoran Crno jezero",
+    "address": "Crno jezero, Ivan Do, Pitomine, 84220 Žabljak, Montenegro",
+    "lat": 43.1474625,
+    "lng": 19.0974531,
+    "score": 6,
+    "cuisine": ["Traditional", "Meat", "View"],
+    "wouldReturn": true,
+    "notes": "Tasty food with live music at the side of the Black Lake in the Durmitor National Park"
   }
 ]
