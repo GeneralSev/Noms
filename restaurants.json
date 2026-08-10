@@ -730,8 +730,8 @@
   {
     "name": "Ryokan Hanaya (旅館花屋)",
     "address": "169 Besshoonsen, Ueda, Nagano 386-1431, Japan",
-    "lat": 36.3511000,
-    "lng": 138.1585000,
+    "lat": 36.3509841,
+    "lng": 138.1597580,
     "score": 7,
     "cuisine": ["Japanese", "Traditional", "Classy"],
     "wouldReturn": true,
