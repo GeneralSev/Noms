@@ -46,7 +46,9 @@
       <p id="status" class="status" hidden></p>
     </main>
 
-    <script src="config.js"></script>
-    <script src="app.js"></script>
+    <!-- Bump ?v= when app.js/config.js change, so browsers don't serve a
+         stale cached copy after a deploy. -->
+    <script src="config.js?v=2"></script>
+    <script src="app.js?v=2"></script>
   </body>
 </html>
