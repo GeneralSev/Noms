@@ -790,8 +790,8 @@
   {
     "name": "杉吉商行 (Shanji Shanghang)",
     "address": "No. 182 Shangshan Rd, Shanfu Village, Liuqiu Township, Pingtung County 929, Taiwan",
-    "lat": 22.3459698,
-    "lng": 120.3655309,
+    "lat": 22.3456624,
+    "lng": 120.3658735,
     "score": 5,
     "cuisine": ["Taiwanese"],
     "wouldReturn": true,
