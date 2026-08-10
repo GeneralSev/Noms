@@ -57,7 +57,7 @@ function addHome() {
     iconAnchor: [16, 16],
     popupAnchor: [0, -16],
   });
-  L.marker([h.lat, h.lng], { icon, zIndexOffset: 1000 })
+  L.marker([h.lat, h.lng], { icon, zIndexOffset: 100000 })
     .addTo(map)
     .bindPopup(`<div class="popup"><strong>${escapeHtml(h.label || "Home")}</strong></div>`);
 }
@@ -101,7 +101,13 @@ function renderMarkers(list) {
 
   for (const r of list) {
     if (!hasCoords(r)) continue;
-    const marker = L.marker([r.lat, r.lng], { icon: makeIcon(r.score) })
+    // Leaflet z-orders markers by latitude, so a southern pin covers a
+    // northern one. Offset by score instead: when pins overlap at low zoom,
+    // the better place stays on top. 1000 comfortably outranks pixel-y.
+    const marker = L.marker([r.lat, r.lng], {
+      icon: makeIcon(r.score),
+      zIndexOffset: (r.score || 0) * 1000,
+    })
       .addTo(markersLayer)
       .bindPopup(popupHtml(r));
     markersByName.set(r.name, marker);
