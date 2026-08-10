@@ -826,5 +826,15 @@
     "cuisine": ["Pub"],
     "wouldReturn": true,
     "notes": "Pub food, we remember a man in a demon mask scaring pedestrians more than the food itself"
+  },
+  {
+    "name": "Ribs of Prague (Melantrichova)",
+    "address": "Melantrichova 504/5, 110 00 Staré Město, Prague, Czechia",
+    "lat": 50.0851878,
+    "lng": 14.4212181,
+    "score": 6,
+    "cuisine": ["Meat", "Ribs"],
+    "wouldReturn": true,
+    "notes": "Delicious ribs, not much else to say. Ate there with Rami and Kobi during the EuroPython conference."
   }
 ]
