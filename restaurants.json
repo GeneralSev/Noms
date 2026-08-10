@@ -716,5 +716,15 @@
     "cuisine": ["Activity", "Fast Food"],
     "wouldReturn": true,
     "notes": "Food at the Round1 stadium. An awesome stadium with multiple floors of arcades, games and sports. Tons of fun with very mediocre arcade food. But the environment made me love it!"
+  },
+  {
+    "name": "KOREAN FOOD & CHICKEN Yogiyo",
+    "address": "1326 Minamiishidocho, Nagano 380-0824, Japan",
+    "lat": 36.6442612,
+    "lng": 138.1860968,
+    "score": 5,
+    "cuisine": ["Korean"],
+    "wouldReturn": true,
+    "notes": "Little Korean place we ate at next to Nagano station. Tasty but not anything to write home about. The couple sitting at the next door table were gossiping about us in Japanese haha."
   }
 ]
