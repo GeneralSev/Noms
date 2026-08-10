@@ -746,5 +746,15 @@
     "cuisine": ["Japanese", "Bakery"],
     "wouldReturn": true,
     "notes": "Delicious food in a stylish bakery/restaurant. Sitting outside you sit next to a little river on the edge of the forest. Loved it!"
+  },
+  {
+    "name": "LOST BAR",
+    "address": "33-1 Udagawacho 2F, Shibuya, Tokyo 150-0042, Japan",
+    "lat": 35.6607708,
+    "lng": 139.6974282,
+    "score": 6,
+    "cuisine": ["Bar", "Snacks"],
+    "wouldReturn": true,
+    "notes": "A hidden bar owned by the YouTuber Abroad in Japan. High quality and hidden behind a gacha machine. Very fun little experience."
   }
 ]
