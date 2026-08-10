@@ -706,5 +706,15 @@
     "cuisine": ["Japanese", "Traditional", "Chicken"],
     "wouldReturn": true,
     "notes": "Delicious fried chicken and meat in the Nagano Station. Heavily recommended by KJ."
+  },
+  {
+    "name": "Round1 Stadium Nagano",
+    "address": "827-6 Higashiwada, Nagano 381-0038, Japan",
+    "lat": 36.6511752,
+    "lng": 138.2252764,
+    "score": 6,
+    "cuisine": ["Activity", "Fast Food"],
+    "wouldReturn": true,
+    "notes": "Food at the Round1 stadium. An awesome stadium with multiple floors of arcades, games and sports. Tons of fun with very mediocre arcade food. But the environment made me love it!"
   }
 ]
