@@ -736,5 +736,15 @@
     "cuisine": ["Japanese", "Traditional", "Classy"],
     "wouldReturn": true,
     "notes": "Very traditional Japanese Onsen. KJ's company put us there when they invited us for the visit. A magical, beautiful place. The meals were so traditional we did not know how to eat it and had to watch the others, no one spoke English so we could not ask! The food was fresh and high quality but too unusual to be our favorite, but the experience was incredible."
+  },
+  {
+    "name": "Bakery & Restaurant Sawamura Kyu-Karuizawa (ベーカリー&レストラン沢村 旧軽井沢)",
+    "address": "Karuizawa 12-18, Karuizawa, Kitasaku District, Nagano 389-0103, Japan",
+    "lat": 36.3562408,
+    "lng": 138.6333368,
+    "score": 7,
+    "cuisine": ["Japanese", "Bakery"],
+    "wouldReturn": true,
+    "notes": "Delicious food in a stylish bakery/restaurant. Sitting outside you sit next to a little river on the edge of the forest. Loved it!"
   }
 ]
