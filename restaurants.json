@@ -836,5 +836,15 @@
     "cuisine": ["Meat", "Ribs"],
     "wouldReturn": true,
     "notes": "Delicious ribs, not much else to say. Ate there with Rami and Kobi during the EuroPython conference."
+  },
+  {
+    "name": "Chapeluur",
+    "address": "Kortemunt 3, 9000 Gent, Belgium",
+    "lat": 51.0555758,
+    "lng": 3.7222875,
+    "score": 4,
+    "cuisine": ["Deep fried"],
+    "wouldReturn": false,
+    "notes": "A restaurant that served kroketten in a confusing menu. Interesting but not amazing and expensive. Would not return"
   }
 ]
