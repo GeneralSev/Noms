@@ -776,5 +776,15 @@
     "cuisine": ["Japanese"],
     "wouldReturn": true,
     "notes": "First place we ate in Japan together with KJ. Sat upstairs in traditional seats and had amazing food. Kobi would not stop gushing about it. Will absolutely visit again if we go back!"
+  },
+  {
+    "name": "Sushiro Akihabara",
+    "address": "Akiba Place Bldg 8F, 3-15-1 Sotokanda, Chiyoda City, Tokyo 101-0021, Japan",
+    "lat": 35.7015483,
+    "lng": 139.7711592,
+    "score": 6,
+    "cuisine": ["Sushi", "All you can eat"],
+    "wouldReturn": true,
+    "notes": "An all you can eat sushi chain restaurant. Fun interactive screens you order on and the sushi arrives via conveyor belts! Loved the experience and would definitely do it again, but the sushi is all you can eat quality :p"
   }
 ]
