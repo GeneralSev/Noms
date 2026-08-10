@@ -766,5 +766,15 @@
     "cuisine": ["Japanese"],
     "wouldReturn": true,
     "notes": "Cute little tonkatsu place with delicious food. Made us feel extra special when we walked out and saw a queue had formed all the way around the corner. Clearly a popular place with the locals."
+  },
+  {
+    "name": "Umaimon Azuma (うまいもん あづま)",
+    "address": "1-32-1 Asakusa, Taito City, Tokyo 111-0032, Japan",
+    "lat": 35.7118452,
+    "lng": 139.7970103,
+    "score": 6,
+    "cuisine": ["Japanese"],
+    "wouldReturn": true,
+    "notes": "First place we ate in Japan together with KJ. Sat upstairs in traditional seats and had amazing food. Kobi would not stop gushing about it. Will absolutely visit again if we go back!"
   }
 ]
