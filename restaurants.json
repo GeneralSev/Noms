@@ -866,5 +866,15 @@
     "cuisine": ["Meat", "Bavarian"],
     "wouldReturn": true,
     "notes": "Christmas dinner in Berlin! Good meat"
+  },
+  {
+    "name": "Dadawan Maastricht",
+    "address": "Spoorweglaan 1, 6221 BS Maastricht, Netherlands",
+    "lat": 50.8492407,
+    "lng": 5.7048199,
+    "score": 7,
+    "cuisine": ["Asian Fusion"],
+    "wouldReturn": true,
+    "notes": "Amazing Asian fusion place. The gyozas were spectacular. I want to go back!"
   }
 ]
