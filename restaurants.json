@@ -806,5 +806,15 @@
     "cuisine": ["Indian"],
     "wouldReturn": true,
     "notes": "Tasty Indian food in Dubrovnik. Had my first ever mango lassi because of recommendation from Kobi! Was amazing (Score is bumped by 1 because of that ;))"
+  },
+  {
+    "name": "Pasta Fresca",
+    "address": "Celetná 598/11, 110 00 Staré Město, Prague, Czechia",
+    "lat": 50.0872247,
+    "lng": 14.4238267,
+    "score": 7,
+    "cuisine": ["Italian"],
+    "wouldReturn": true,
+    "notes": "Great pasta in a sprawling underground restaurant. Loved the atmosphere and the food!"
   }
 ]
