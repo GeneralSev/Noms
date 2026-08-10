@@ -796,5 +796,15 @@
     "cuisine": ["Taiwanese"],
     "wouldReturn": true,
     "notes": "Tasty slightly fancy place on Xiaoliuqiu Island. Probably one of the nicest places we ate while there."
+  },
+  {
+    "name": "Incredible India Dubrovnik",
+    "address": "Ul. Između Polača 11, 20000 Dubrovnik, Croatia",
+    "lat": 42.6411529,
+    "lng": 18.1089371,
+    "score": 6,
+    "cuisine": ["Indian"],
+    "wouldReturn": true,
+    "notes": "Tasty Indian food in Dubrovnik. Had my first ever mango lassi because of recommendation from Kobi! Was amazing (Score is bumped by 1 because of that ;))"
   }
 ]
