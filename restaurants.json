@@ -846,5 +846,15 @@
     "cuisine": ["Deep fried"],
     "wouldReturn": false,
     "notes": "A restaurant that served kroketten in a confusing menu. Interesting but not amazing and expensive. Would not return"
+  },
+  {
+    "name": "Da Vinci",
+    "address": "Georgenstraße 192, 10117 Berlin, Germany",
+    "lat": 52.5201096,
+    "lng": 13.3912976,
+    "score": 6,
+    "cuisine": ["Italian"],
+    "wouldReturn": true,
+    "notes": "Delicious Italian food under the rails. Friendly staff, magnifico!"
   }
 ]
