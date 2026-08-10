@@ -696,5 +696,15 @@
     "cuisine": ["Traditional", "Meat", "View"],
     "wouldReturn": true,
     "notes": "Tasty food with live music at the side of the Black Lake in the Durmitor National Park"
+  },
+  {
+    "name": "Nagano-ken Choju-shokudo (長野県長寿食堂)",
+    "address": "MIDORI Nagano 3F, 1-22-6 Minamichitose, Nagano 380-0823, Japan",
+    "lat": 36.6438961,
+    "lng": 138.1889036,
+    "score": 6,
+    "cuisine": ["Japanese", "Traditional", "Chicken"],
+    "wouldReturn": true,
+    "notes": "Delicious fried chicken and meat in the Nagano Station. Heavily recommended by KJ."
   }
 ]
