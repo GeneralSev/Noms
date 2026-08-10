@@ -726,5 +726,15 @@
     "cuisine": ["Korean"],
     "wouldReturn": true,
     "notes": "Little Korean place we ate at next to Nagano station. Tasty but not anything to write home about. The couple sitting at the next door table were gossiping about us in Japanese haha."
+  },
+  {
+    "name": "Ryokan Hanaya (旅館花屋)",
+    "address": "169 Besshoonsen, Ueda, Nagano 386-1431, Japan",
+    "lat": 36.3511000,
+    "lng": 138.1585000,
+    "score": 7,
+    "cuisine": ["Japanese", "Traditional", "Classy"],
+    "wouldReturn": true,
+    "notes": "Very traditional Japanese Onsen. KJ's company put us there when they invited us for the visit. A magical, beautiful place. The meals were so traditional we did not know how to eat it and had to watch the others, no one spoke English so we could not ask! The food was fresh and high quality but too unusual to be our favorite, but the experience was incredible."
   }
 ]
