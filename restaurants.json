@@ -816,5 +816,15 @@
     "cuisine": ["Italian"],
     "wouldReturn": true,
     "notes": "Great pasta in a sprawling underground restaurant. Loved the atmosphere and the food!"
+  },
+  {
+    "name": "Střídačka (The Hockey Bench)",
+    "address": "Týnská ulička 628/2, 110 00 Staré Město, Prague, Czechia",
+    "lat": 50.0881113,
+    "lng": 14.4226069,
+    "score": 4,
+    "cuisine": ["Pub"],
+    "wouldReturn": true,
+    "notes": "Pub food, we remember a man in a demon mask scaring pedestrians more than the food itself"
   }
 ]
