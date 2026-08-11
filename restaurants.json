@@ -876,5 +876,15 @@
     "cuisine": ["Asian Fusion"],
     "wouldReturn": true,
     "notes": "Amazing Asian fusion place. The gyozas were spectacular. I want to go back!"
+  },
+  {
+    "name": "Top Ten Karaoke (탑텐노래타운)",
+    "address": "Haewol Plaza 3F, 22 Gunam-ro, U-dong, Haeundae-gu, Busan, South Korea",
+    "lat": 35.1620000,
+    "lng": 129.1603000,
+    "score": 3,
+    "cuisine": ["Activity", "Fast Food"],
+    "wouldReturn": true,
+    "notes": "Fun karaoke bar in Busan! Food was terrible, evening was lots of fun!"
   }
 ]
